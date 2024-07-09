@@ -53,4 +53,49 @@ print(34,43,56,"fans")
 print({"Name = Fizanlatif"})
 print(type({"Name = Fizanlatif"}))
 print(type({"Age" : "23"}))
+
 Day 2 Excercise level 1
+# _abs_ Function
+print(abs(-23-12.576j))
+# All Function
+int_list = [1,3,5,7,8]
+result = any(int_list)
+print(result)
+int_list = ['a = 9','b = 6']
+result = any('3')
+print(result)
+format(4,'b')
+bin(-1245)
+# Declare a first name variable and assign a value to it.
+first_name = 'Fizan'
+print(first_name)
+# Declare a last name variable and assign a value to it.
+last_name = 'Latif'
+print(last_name)
+# Declare a full name variable and assign a value to it.
+full_name = 'Fizan Latif'
+print(full_name)
+# Declare a country variable and assign a value to it.
+country = 'Pakistan'
+print(country)
+# Declare a city variable and assign a value to it.
+city = 'Bahawalpur'
+print(city)
+# Declare an age variable and assign a value to it.
+age = 19
+print(age)
+# Declare a year variable and assign a value to it.
+year = 2024
+print(year)
+# Declare a variable is_married and assign a value to it.
+is_married = False
+print(is_married)
+# Declare a variable is_true and assign a value to it.
+is_true = True
+print(is_true)
+# Declare a variable is_light_on and assign a value to it.
+is_light_on = True
+print(is_light_on)
+# Declare multiple variable on one line.
+first_name, last_name, full_name = 'Fizan', 'Latif', 'Fizan Latif'
+print(first_name, last_name, full_name)
