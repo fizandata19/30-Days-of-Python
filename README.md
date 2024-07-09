@@ -53,3 +53,4 @@ print(34,43,56,"fans")
 print({"Name = Fizanlatif"})
 print(type({"Name = Fizanlatif"}))
 print(type({"Age" : "23"}))
+Day 2 Excercise level 1
